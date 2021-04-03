@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">雷布斯带我拧螺丝</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2021-04-03T23:11:23&#43;08:00</updated>
+    <id>https://liang767339.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://liang767339.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://liang767339.github.io/atom.xml" />
+    <author>
+            <name>By Liang</name>
+            <uri>https://liang767339.github.io/</uri>
+            
+                <email>511550271@qq.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
+        <entry>
+            <title type="text">开始</title>
+            <link rel="alternate" type="text/html" href="https://liang767339.github.io/post/blog/" />
+            <id>https://liang767339.github.io/post/blog/</id>
+            <updated>2021-04-03T22:15:14&#43;08:00</updated>
+            <published>2021-04-03T19:18:43&#43;08:00</published>
+            <author>
+                    <name>By Liang</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>511550271@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">面试 jieouhe to do it
+ 想写写博客记录一下面试的旅程和感触，顺便记录一下自己的学习旅程。 </summary>
+            
+                <content type="html">&lt;h3 id=&#34;面试&#34;&gt;面试&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;jieouhe&lt;/a&gt;   &lt;strong&gt;to  do  it&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;想写写博客记录一下面试的旅程和感触顺便记录一下自己的学习旅程&#34;&gt;&lt;strong&gt;想写写博客记录一下面试的旅程和感触，顺便记录一下自己的学习旅程。&lt;/strong&gt;&lt;/h5&gt;
+&lt;img src=&#34;https://liang767339.github.io/images/1.png&#34; style=&#34; display: block;margin: 13px auto; box-shadow: rgb(132, 161, 168) 0px 10px 15px;&#34;&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
